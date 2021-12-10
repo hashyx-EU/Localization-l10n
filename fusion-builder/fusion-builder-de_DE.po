@@ -245,7 +245,7 @@ msgstr "Dynamischen Inhalt suchen"
 #: front-end/templates/featured-image.php:49
 #: inc/lib/inc/templates/rollover.php:137 shortcodes/fusion-gallery.php:1024
 #: shortcodes/fusion-gallery.php:1170
-msgid "Gallery"
+msgid "Gallery
 msgstr "Gallerie"
 
 #: front-end/templates/featured-image.php:78 inc/lib/inc/functions.php:1617
@@ -14697,7 +14697,7 @@ msgstr ""
 #. tags.
 #: shortcodes/components/templates/fusion-tb-comments.php:94
 msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
-msgstr ""
+msgstr "Eingeloggt als %1$s. %2$sAusloggen &raquo;%3$s"
 
 #: shortcodes/components/templates/fusion-tb-comments.php:94
 msgid "Log out of this account"
