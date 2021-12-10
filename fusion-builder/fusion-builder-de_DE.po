@@ -14697,7 +14697,7 @@ msgstr ""
 #. tags.
 #: shortcodes/components/templates/fusion-tb-comments.php:94
 msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
-msgstr ""
+msgstr "Eingeloggt als %1$s. %2$sAusloggen &raquo;%3$s"
 
 #: shortcodes/components/templates/fusion-tb-comments.php:94
 msgid "Log out of this account"
@@ -14705,7 +14705,7 @@ msgstr ""
 
 #: shortcodes/components/templates/fusion-tb-comments.php:98
 msgid "Post Comment"
-msgstr ""
+msgstr "Kommentar abschicken"
 
 #: shortcodes/components/woo-additional-info.php:409
 msgid "Woo Additional Information"
